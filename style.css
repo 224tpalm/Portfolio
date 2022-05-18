@@ -1,4 +1,20 @@
 .container-fluid-1{
-  background-image: url("https://cdn5.vectorstock.com/i/1000x1000/99/54/white-paper-material-design-wallpaper-vector-5629954.jpg");
+  background-image: url("https://images.unsplash.com/photo-1618022325802-7e5e732d97a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80");
+  background-repeat: no-repeat;
   background-size: cover;
+}
+
+h2 {
+  font-family: monospace;
+  text-align: center;
+  text-shadow: 0px 0px #11d9d9
+}
+
+.fs-1 {
+  text-shadow: 1px 1px #11d9d9;
+  text-align: center;
+}
+
+img {
+    box-shadow: 5px 5px 5px #11d9d9;
 }
