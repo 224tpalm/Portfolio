@@ -104,3 +104,31 @@ input[type=submit]:hover {
   background-color: #f2f2f2;
   padding: 20px;
 }
+
+.pagination > li > a
+{
+    background-color: white;
+    color: #4a4d52;
+}
+
+.pagination > li > a:focus,
+.pagination > li > a:hover,
+.pagination > li > span:focus,
+.pagination > li > span:hover
+{
+    color: #4a4d52;
+    background-color: #eee;
+    border-color: #ddd;
+}
+
+.pagination > .active > a
+{
+    color: white;
+    background-color: #4a4d52 !Important;
+    border: solid 1px #4a4d52 !Important;
+}
+
+.pagination > .active > a:hover
+{
+    background-color: #11d9d9 !Important;
+    border: solid 1px
