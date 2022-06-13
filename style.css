@@ -131,4 +131,9 @@ input[type=submit]:hover {
 .pagination > .active > a:hover
 {
     background-color: #11d9d9 !Important;
-    border: solid 1px
+    border: solid 1px;
+}
+
+.linkstogithub {
+  text-align: center;
+}
